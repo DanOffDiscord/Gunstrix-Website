@@ -16,6 +16,14 @@ h1, h2, p {
 .fab, .fas {
 	font-size: 50px;
 }
+.device-icon {
+	font-size: 100px;
+	color: #DCDCDC;
+}
+hr {
+	width: 400px;
+	margin: auto;
+}
 a:hover {
 	color: lightblue;
 }
