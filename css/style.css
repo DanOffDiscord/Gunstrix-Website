@@ -30,3 +30,8 @@ a:hover {
 code {
 	background: transparent;
 }
+
+.ad {
+	width: 250px;
+	border-radius: 25%;
+}
