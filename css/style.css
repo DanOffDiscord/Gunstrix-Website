@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Shrikhand');
+@import url('https://fonts.googleapis.com/css?family=Niramit');
 
 body {
-	font-family: 'Shrikhand', cursive;
-	background-color: hsl(0, 0%, 21%);
+	font-family: 'Niramit', sans-serif;
+	background-color: #107dac;
 	min-height: 100vh;
 	padding: 2em;
 }
@@ -24,14 +24,16 @@ hr {
 	width: 400px;
 	margin: auto;
 }
-a:hover {
+a {
 	color: lightblue;
 }
 code {
 	background: transparent;
 }
-
-.ad {
-	width: 250px;
-	border-radius: 25%;
+.icon {
+	color: lightblue;
+}
+.button-icon {
+	margin-right: 10px;
+	font-size: 35px
 }
