@@ -2,38 +2,45 @@
 
 body {
 	font-family: 'Niramit', sans-serif;
-	background-color: #107dac;
+	background-color: #757D88;
 	min-height: 100vh;
 	padding: 2em;
 }
+
 h1, h2, p {
-	color: #DCDCDC !important;
+	color: black !important;
 }
+
 .logo {
-	width: 150px;
-	border-radius: 25%;
+	width: 275px;
 }
+
 .fab, .fas {
+	
 	font-size: 50px;
-}
-.device-icon {
-	font-size: 100px;
-	color: #DCDCDC;
 }
 hr {
 	width: 400px;
 	margin: auto;
 }
-a {
-	color: lightblue;
+
+strong {
+	color: black !important;
 }
+
+a {
+	color: #00008b;
+}
+
 code {
 	background: transparent;
 }
+
 .icon {
-	color: lightblue;
+	color: black;
 }
-.button-icon {
-	margin-right: 10px;
-	font-size: 35px
+
+.device-icon {
+	font-size: 150px;
+	color: black;
 }
